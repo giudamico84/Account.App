@@ -6,3 +6,7 @@
 /src/Account.App/bin/Debug
 /src/Account.App/.vs/ProjectEvaluation
 /src/Account.App/Account.App.csproj.user
+<<<<<<< HEAD
+=======
+/src/Account.App/bin/Release
+>>>>>>> Add initial project structure for Account.App
